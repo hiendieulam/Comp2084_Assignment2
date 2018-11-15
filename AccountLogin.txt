@@ -1,0 +1,9 @@
+Administrator: 
+
+Username: rich@gc.ca
+Pass: Abcd123$
+Username: demo@g.com
+
+Password: Hien@123
+Username: customer@hotmail.com
+Password: Hien@12345
